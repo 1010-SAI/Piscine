@@ -7,6 +7,7 @@ export default function Home() {
   <>
     <h1>Hello world</h1>
     <Seo title="hello"/>
+    <h2>Test firebase</h2>
   </>
   );
 }
